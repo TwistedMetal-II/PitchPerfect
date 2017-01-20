@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PitchPerfect
+//  PitchPerfectProject
 //
-//  Created by Dharminder Rattu on 20.01.17.
+//  Created by Dharminder Rattu on 15.01.17.
 //  Copyright © 2017 Dharminder Rattu. All rights reserved.
 //
 
